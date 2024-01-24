@@ -22,7 +22,7 @@ I'm a programming enthusiast, I currently work as a Frontend developer
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yasmim-cmr&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
   </div>
   <div align="center">
-    <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yasmim_cmr&layout=compact&custom_title=Hours%20Coding%20Last%20365%20days" style="max-width: 100%;"/>
+     <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yasmim_cmr&layout=compact&custom_title=Hours%20Coding%20Last%20365%20days" style="max-width: 100%;"/>
   </div>
 </div>
 </a>
